@@ -5,6 +5,8 @@ El artículo Nombres botánicos explica las principales reglas del uso de nomenc
 - [Pronunciación de los nombres botánicos](https://github.com/AprendizBonsai/nombres-botanicos/blob/main/Pronunciacion%20nombres%20botanicos.jpg).
 - [Niveles taxonómicos](https://github.com/AprendizBonsai/nombres-botanicos/blob/main/Niveles%20taxonomicos.jpg) tal y como aparecen en el Código Internacional de Nomenclatura para algas, hongos y plantas (Código de Madrid), 2025.
 
+
+
 ## Referencias
 * Desert City (6 de julio de 2023). Miniguías sobre pronunciación y escritura botánica. Desert-City.es. Fecha de consulta: 17 de septiembre de 2025. Disponible en [https://desert-city.es/miniguias-sobre-pronunciacion-y-escritura-botanica/](https://desert-city.es/miniguias-sobre-pronunciacion-y-escritura-botanica/)
 * Erice, A. S. (31 de octubre de 2016). Cómo escribir nombres científicos correctamente. Imaginando vegetales. Fecha de consulta: 17 de septiembre de 2025. Disponible en [https://imaginandovegetales.wordpress.com/2016/10/31/escribir-nombres-cientificos/](https://imaginandovegetales.wordpress.com/2016/10/31/escribir-nombres-cientificos/)
