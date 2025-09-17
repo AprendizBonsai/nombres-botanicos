@@ -1,6 +1,6 @@
 # Nombres botánicos
 
-El artículo Nombres botánicos explica las principales reglas del uso de nomenclatura científica en botánica, así como qué organización mantiene esta nomenclatura y qué niveles taxonómicos se usan. En este repositorio se encuentran las versiones a alta resolución de los diagramas que uso en ese artículo.
+El artículo Nombres botánicos explica las principales reglas del uso de nomenclatura científica en botánica. En este repositorio se encuentran las versiones a alta resolución de los diagramas que uso en ese artículo.
 - [Escritura de los nombres botánicos](https://github.com/AprendizBonsai/nombres-botanicos/blob/main/Escritura%20nombres%20botanicos.jpg)).
 - [Pronunciación de los nombres botánicos](https://github.com/AprendizBonsai/nombres-botanicos/blob/main/Pronunciacion%20nombres%20botanicos.jpg).
 - [Niveles taxonómicos](https://github.com/AprendizBonsai/nombres-botanicos/blob/main/Niveles%20taxonomicos.jpg) tal y como aparecen en el Código Internacional de Nomenclatura para algas, hongos y plantas (Código de Madrid), 2025.
